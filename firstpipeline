@@ -1,3 +1,4 @@
+git ls-remote -h
 pipeline {
   agent any
   }
